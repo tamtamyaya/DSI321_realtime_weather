@@ -5,7 +5,7 @@ from datetime import datetime
 import pytz
 from prefect import flow, task
 
-API_KEY = "f937ef58aa2555b6d76a1119fd917eed"
+API_KEY = "5364c78eab167c6b826b39227030cfa4"
 WEATHER_URL = "https://api.openweathermap.org/data/2.5/weather"
 POLLUTION_URL = "http://api.openweathermap.org/data/2.5/air_pollution"
 
@@ -108,7 +108,7 @@ async def main_flow():
     # lakeFS credentials from your docker-compose.yml
     ACCESS_KEY = "access_key"
     SECRET_KEY = "secret_key"
-    lakefs_endpoint = "http://lakefs-dev:8000/"
+    lakefs_endpoint = "http://lakefs-dev:8001/"
     repo = "weather"
     branch = "main"
     path = "weather.parquet"
