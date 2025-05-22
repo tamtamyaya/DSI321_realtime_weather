@@ -5,3 +5,4 @@ while ! curl -s http://prefect-server:4200/api/health > /dev/null; do
 done
 echo "Prefect Server is ready, starting Prefect Worker..."
 exec prefect worker start --pool default-agent-pool
+

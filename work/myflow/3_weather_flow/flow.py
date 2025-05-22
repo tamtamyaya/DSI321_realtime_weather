@@ -108,7 +108,7 @@ async def main_flow():
     # lakeFS credentials from your docker-compose.yml
     ACCESS_KEY = "access_key"
     SECRET_KEY = "secret_key"
-    lakefs_endpoint = "http://lakefs-dev:8001/"
+    lakefs_endpoint = "http://lakefs-dev:8000/"
     repo = "weather"
     branch = "main"
     path = "weather.parquet"
