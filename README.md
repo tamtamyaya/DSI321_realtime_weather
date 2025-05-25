@@ -134,13 +134,10 @@
 * Docker Compose: สำหรับการจัดการและรันคอนเทนเนอร์ของแอปพลิเคชัน
 * Shell Script: สำหรับการตั้งค่าและรันระบบอัตโนมัติ
 
-วิธีการเริ่มต้น
-
-ติดตั้ง Docker และ Docker Compose บนเครื่องของคุณ
-
-โคลนโปรเจกต์นี้:
-
-git clone https://github.com/kanchaporn09/dsi321_2025.git
+## วิธีการเริ่มต้น ##
+1. ติดตั้ง Docker และ Docker Compose บนเครื่องของคุณ
+โคลนโปรเจกต์นี้: 
+'git clone https://github.com/tamtamyaya/dsi321_2025.git'
 เข้าไปในโฟลเดอร์โปรเจกต์:
 
 
