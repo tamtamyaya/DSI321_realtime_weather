@@ -139,19 +139,31 @@
 1. ติดตั้ง Docker และ Docker Compose บนเครื่องของคุณ
 
 2. โคลนโปรเจกต์นี้
-`git clone https://github.com/tamtamyaya/dsi321_2025.git`
+
+```bash
+git clone https://github.com/tamtamyaya/dsi321_2025.git
+```
 
 3. เข้าไปในโฟลเดอร์โปรเจกต์
-`cd dsi321_realtime_dashboard`
 
-4. รันระบบด้วย Docker Compose
-`docker-compose up`
+```bash
+cd dsi321_realtime_dashboard
+```
 
-5. ติดตั้ง dependencies
-`pip install -r requirements.txt`
+5. รันระบบด้วย Docker Compose
+```bash
+docker-compose up
+```
 
-6. รันแอปพลิเคชัน
-`streamlit run app.py`
+7. ติดตั้ง dependencies
+```bash
+pip install -r requirements.txt
+```
+
+8. รันแอปพลิเคชัน
+```bash
+streamlit run app.py
+```
 
 
 ## 6. บทสรุป ##
