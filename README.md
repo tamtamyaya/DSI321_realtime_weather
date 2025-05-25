@@ -184,4 +184,7 @@
 * ออกแบบมาให้เข้าใจง่ายและเข้าถึงได้ แม้สำหรับผู้ใช้งานที่ไม่มีพื้นฐานด้านเทคนิค
 * การกำหนด ตัวชี้วัดความสำเร็จ (KPIs) อย่างรอบด้านช่วยให้สามารถประเมินผลการดำเนินงานได้อย่างชัดเจน ทั้งในแง่ของความเสถียรทางเทคนิค ผลกระทบต่อการเรียนรู้
 
+
+## ภาพแผนที่ค่าฝุ่น PM2.5 รายอำเภอ ##
 ![Dashboard PM2.5](https://drive.google.com/uc?export=view&id=16PXFEzZY6REYIv9Sp7Uvscf6FVPkwQi4)
+![Dashboard PM2.5](https://drive.google.com/uc?export=view&id=11OIGUuHSYXqOgYazdJ3g3IPYHpJj_UCR)
