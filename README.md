@@ -147,7 +147,7 @@ git clone https://github.com/tamtamyaya/dsi321_2025.git
 3. เข้าไปในโฟลเดอร์โปรเจกต์
 
 ```bash
-cd dsi321_realtime_dashboard
+cd dsi321_2025
 ```
 
 5. รันระบบด้วย Docker Compose
